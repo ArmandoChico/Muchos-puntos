@@ -1,0 +1,298 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700');
+*{
+   font-family: 'Roboto', sans-serif;
+}
+.banner {
+margin: 10px 0;
+width:300px;
+height: 250px;
+background-color: #053C63;
+position: relative;
+padding-left: 30px;
+padding-top: 9px;
+box-sizing: border-box;
+}
+img{
+   width: 50px;
+   position: absolute;
+   right: 10px;
+   top: 10px;
+}
+h1{
+   color: white;
+   text-transform: uppercase;
+   font-size: 50px;
+   line-height: 40px;
+}
+.banne{
+    margin: 10px 0;
+    width:300px;
+    height: 250px;
+    background-color:#A5DAE3;
+    position: relative;
+    padding-left: 30px;
+    padding-top: 9px;
+    box-sizing: border-box;
+}
+.banne h1{
+    color: white;
+    text-transform: uppercase;
+    font-size: 35px;
+    line-height: 30px; 
+    margin: 37px 40px 0px -15px;
+}
+.banne .img1{
+    width: 50px;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+.banne .img3{
+    position: absolute;
+    width: 75px;
+    right: 150px;
+    top: 165px;
+}
+.banne .img2{
+    position: absolute;
+    width: 80px;
+    right: 225px;
+    top: 150px;
+}
+.binn{
+    margin: 10px 0;
+    width:300px;
+    height: 250px;
+    background-color:#A5DAE3;
+    position: relative;
+    padding-left: 30px;
+    padding-top: 9px;
+    box-sizing: border-box;
+}
+.binn  .img5{
+    position: absolute;
+    width: 80px;
+    right: 225px;
+    top: 120px;
+}
+.binn  .img6{
+    position: absolute;
+    width: 200px;
+    right: 30px;
+    top: 130px;
+}
+.binn  h1{
+    color: white;
+    text-transform: uppercase;
+    font-size: 40px;
+    line-height: 30px; 
+    margin: 16px 0 0 -15px;
+}
+.butsi{
+    margin: 10px 0;
+    width:300px;
+    height: 250px;
+    background-color:#A5DAE3;
+    position: relative;
+    padding-left: 30px;
+    padding-top: 9px;
+    box-sizing: border-box;
+}
+.butsi .img8{
+    position: absolute;
+    width: 100px;
+    right: 180px;
+    top: 150px;
+}
+.butsi h1{
+    color: white;
+    text-transform: uppercase;
+    font-size: 40px;
+    line-height: 30px; 
+    margin: 16px 0 0 -15px;
+}
+.butsi .img9{
+    position: absolute;
+    width: 250px;
+    right: -70px;
+    top: 100px;
+}
+.tribin{
+    margin: 10px 0;
+    width:300px;
+    height: 250px;
+    background-color: #FECE2F;
+    position: relative;
+    padding-left: 30px;
+    padding-top: 9px;
+    box-sizing: border-box;
+}
+.tribin h1{
+    color: white;
+    text-transform: uppercase;
+    font-size: 50px;
+    margin: 40px 0 0 -15px;
+}
+.best{
+    margin: 10px 0;
+    width:300px;
+    height: 250px;
+    background-color: #053C63;
+    position: relative;
+    padding-left: 30px;
+    padding-top: 9px;
+    box-sizing: border-box;
+}
+.best h1{
+    color: white;
+    text-transform: uppercase;
+    font-size: 40px;
+    line-height: 35px; 
+    margin: 20px 0 0 -15px;
+}
+.best h3{
+    color: white;
+    text-transform: ;
+    margin: 5px 0 0 -15px;
+}
+.best .img12{
+    position: absolute;
+    width: 250px;
+    right: -70px;
+    top: 100px;
+}
+.best .img13{
+    position: absolute;
+    width: 50px;
+    right: 180px;
+    top: 210px;
+}
+.best  .img14{
+    position: absolute;
+    width: 50px;
+    right: 240px;
+    top: 200px;
+}
+.best .oye{
+    border:1px #A5DAE3 solid;
+    text-transform: ;
+    width:90px;
+    padding: 4px 4px 4px 8px;
+}
+.biner {
+    margin: 10px 0;
+    width:300px;
+    height: 50px;
+    background-color: #053C63;
+    position: relative;
+    padding-left: 30px;
+    padding-top: 9px;
+    box-sizing: border-box;
+}
+.biner h2{
+    color: white;
+    text-transform: uppercase; 
+    margin-left: 40px;
+    font-size: 20px;
+    line-height: 11px;
+    margin-top: 11px;
+
+}
+.biner .img15{
+    position: absolute;
+    width: 50px;
+    right: 246px;
+    top: 7px;   
+}
+.bineron{
+    margin: 10px 0;
+    width:300px;
+    height: 50px;
+    background-color: #053C63;
+    position: relative;
+    padding-left: 30px;
+    padding-top: 9px;
+    box-sizing: border-box;
+}
+.o{
+    color: white;
+    text-transform: uppercase; 
+    margin-left: 30px;
+    font-size: 20px;
+    line-height: 18px;
+    margin-top: -1px;
+
+}
+.bineron .img16{
+    position: absolute;
+    width: 50px;
+    right: 246px;
+    top: 7px;   
+}
+.img21{
+width: 40px;
+position: absolute;
+right: 70px;
+top: 26px;
+}
+.img22{
+width: 40px;
+position: absolute;
+right: 110px;
+top:20px;
+}
+.mujer{
+    margin: 10px 0;
+    width:300px;
+    height: 50px;
+    background-color: #FECE2F;
+    position: relative;
+    padding-left: 30px;
+    padding-top: 9px;
+    box-sizing: border-box;
+}
+.img17{
+    position: absolute;
+    width: 50px;
+    right: 246px;
+    top: 7px;   
+}
+
+.a{
+    color: white;
+    text-transform: uppercase; 
+    margin-left: 30px;
+    font-size: 20px;
+    line-height: 18px;
+    margin-top: -1px;
+}
+.mia{
+    margin: 10px 0;
+    width:300px;
+    height: 50px;
+    background-color: #053C63;
+    position: relative;
+    padding-left: 30px;
+    padding-top: 9px;
+    box-sizing: border-box;
+}
+.img19{
+    position: absolute;
+    width: 50px;
+    right: 246px;
+    top: 7px;   
+}
+.e{
+    color: white;
+    text-transform: uppercase; 
+    margin-left: 30px;
+    line-height: 0px;
+    font-size: 15px;
+}
+.i{
+    color: white;
+    text-transform: uppercase; 
+    margin-left: 30px;
+    font-size: 10px;
+    line-height: 0px;
+}
